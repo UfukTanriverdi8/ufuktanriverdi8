@@ -5,8 +5,6 @@ currently working on [this cool project](https://avesis.hacettepe.edu.tr/proje/6
 
 also check out [this cool ai assistant](https://hacettepe-ai-hou3z.ondigitalocean.app/) for hacettepe university students
 
-
-## 🌐 Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ufuk-tanr%C4%B1verdi-91a503264/) 
 <!-- # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=ufuktanriverdi8&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
