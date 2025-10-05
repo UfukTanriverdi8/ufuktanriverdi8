@@ -3,7 +3,7 @@ junior CS student at hacettepe university. machine learning mostly.
 
 currently working on [this cool project](https://avesis.hacettepe.edu.tr/proje/61d8ed55-f513-4035-8ae2-c0a576d9de7b/uretken-derin-ogrenme-ile-yeni-protein-dizilerinin-molekuler-islev-odakli-otomatik-tasarimi) about generating new protein sequences with specific functions by using different cutting edge deep learning approaches. i have [even a poster](https://drive.google.com/file/d/1Cnx71HdwFgaiM2EmI3L79R62NisGjsgB/view?usp=sharing) that i presented in ISMB/ECCB 2025 Liverpool!
 
-also check out [this cool ai chatbot](https://hacettepe-ai.vercel.app/) for hacettepe university students
+also check out [this cool ai assistant](https://hacettepe-ai-hou3z.ondigitalocean.app/) for hacettepe university students
 
 
 ## 🌐 Socials
