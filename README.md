@@ -7,7 +7,7 @@ at the same time working with Prof. Adam Jatowt from [University of Innsbruck Da
 
 also check out [this cool ai assistant](https://hacettepe-ai-hou3z.ondigitalocean.app/) for hacettepe university students
 
-![LinkedIn](https://img.icons8.com/?size=25&id=60ZV_wYC0BM2&format=png&color=000000) [My LinkedIn](https://www.linkedin.com/in/ufuk-tanriverdi-91a503264/)
+<img align="top" src="https://img.icons8.com/?size=32&id=60ZV_wYC0BM2&format=png&color=000000" alt="LinkedIn" > <a href="https://www.linkedin.com/in/ufuk-tanriverdi-91a503264/">My LinkedIn</a>
 <!-- # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=ufuktanriverdi8&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ufuktanriverdi8&theme=dark&hide_border=false)<br/>
