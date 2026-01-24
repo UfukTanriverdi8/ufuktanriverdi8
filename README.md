@@ -1,7 +1,7 @@
 # About Me
 junior CS student at hacettepe university. 
 
-co-founder of UNIPAL. your Campus, explained. check it out from **→[HERE](unipal.info)←**
+co-founder of UNIPAL. your Campus, explained. check it out from **→[HERE](https://unipal.info)←**
 
 currently working on [this cool project](https://avesis.hacettepe.edu.tr/proje/61d8ed55-f513-4035-8ae2-c0a576d9de7b/uretken-derin-ogrenme-ile-yeni-protein-dizilerinin-molekuler-islev-odakli-otomatik-tasarimi) about generating new protein sequences with specific functions by using different cutting edge deep learning approaches at [Hacettepe Bio Data Science Lab](https://hubiodatalab.github.io/). i have [even a poster](https://drive.google.c__om/file/d/1Cnx71HdwFgaiM2EmI3L79R62NisGjsgB/view?usp=sharing) that i presented in ISMB/ECCB 2025 Liverpool! 
 
